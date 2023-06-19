@@ -9,7 +9,12 @@
 .header {
   height: 7rem;
   background-color: #fff;
+  font-size: 1.4rem;
+
   border-bottom: var(--color-grey-light-2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .content {
