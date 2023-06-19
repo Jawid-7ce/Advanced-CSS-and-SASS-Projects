@@ -1,0 +1,11 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "A simple landing website for finding the best hotels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jawid",
+  "license": "ISC"
+}
