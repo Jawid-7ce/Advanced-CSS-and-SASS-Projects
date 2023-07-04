@@ -1,3 +1,3 @@
 # Advanced-CSS-and-SASS-Projects
-## Trillo project
-This is a static landing website originally designed and developed by Jonas Schmedtmann. I recreated this website for learning purposes in improving my HTML &amp; CSS skills. All credits goes to the original developer: Jonas Schmedtmann.
+
+In here I am trying to develope the best html and sass projects with using a little advanced css topics.
