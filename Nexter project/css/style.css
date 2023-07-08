@@ -152,6 +152,12 @@ body {
   grid-gap: 7rem; }
   .homes .home {
     background-color: #f9f7f6; }
+    .homes .home__img {
+      width: 100%; }
+    .homes .home__location svg, .homes .home__rooms svg, .homes .home__area svg, .homes .home__price svg {
+      fill: #c69963;
+      height: 2rem;
+      width: 2rem; }
 
 .gallery {
   background-color: #54483a;
